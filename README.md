@@ -1,0 +1,2 @@
+# UIButtonClickRange
+判断点击、触摸区域是否属于当前UIView;UIView提供了一个pointInside:withEvent:方法，用于判断用户点击的点是否属于当前这个视图;这里以按钮点击范围为例.
