@@ -25,7 +25,7 @@
 }
 
 - (void)btnAction:(UIButton *)sender {
-    
+    NSLog(@"提交测试");
     NSLog(@"点击");
 }
 
