@@ -25,6 +25,7 @@
 }
 
 - (void)btnAction:(UIButton *)sender {
+    NSLog(@"测试新分支2");
     NSLog(@"提交测试");
     NSLog(@"点击");
 }
